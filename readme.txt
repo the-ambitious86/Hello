@@ -1,1 +1,1 @@
-# this is hello projectgit
+# this is hello project
